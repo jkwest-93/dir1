@@ -1,0 +1,13 @@
+Object: JakesToyotaPrius
+
+Attributes:
+color: 'white'
+numberOfWheels: 4
+manual: false
+bumperStickers: ['Bernie 2020']
+
+Methods:
+repaint: 'black'
+popTire: 3
+swapTransmission: true
+addSticker: ["Bernie 2020", "Human Rights Campaign"]
